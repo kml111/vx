@@ -1,0 +1,11 @@
+<!--miniprogram/pages/guet/guet.wxml-->
+<view class="title">
+  <text>桂林电子科技大学</text>
+</view>
+<view class="card">
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/6.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/60.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/64.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/640.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/69.jpg"></image>
+</view>

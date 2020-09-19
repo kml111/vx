@@ -1,0 +1,68 @@
+<!--index.wxml-->
+<view class="card">
+  
+  <navigator url="../guet/guet" open-type="navigate" class="uploader-text">
+    <image class="img"  src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/guet.jpg"></image>
+    </navigator>
+    <text class="title_text">桂林电子科技大学</text>
+    <view class="zan">
+      <image bindtap="guet_m" src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/praise.PNG' class="img_p"  ></image>
+    <view class="text_p">{{guet}}</view>
+    </view>
+    
+</view>
+
+<view class="card">
+  
+  <navigator url="../gl/gl" open-type="navigate" class="uploader-text">
+    <image class="img"  src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gl/timg.jpg"></image>
+    </navigator>
+    <text class="title_text">桂林理工大学</text>
+    <view class="zan">
+      <image bindtap="gl_m" src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/praise.PNG' class="img_p"></image>
+    <view class="text_p">{{gl}}</view>
+    </view>
+</view>
+
+<view class="card">
+  
+  <navigator url="../sd/sd" open-type="navigate" class="uploader-text">
+    <image class="img"  src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/sd/s1.jpg"></image>
+    </navigator>
+    <text class="title_text">广西师范大学</text>
+    <view class="zan">
+      <image bindtap="sf_m" src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/praise.PNG' class="img_p"  ></image>
+    <view  class="text_p">{{sf}}</view>
+    </view>
+</view>
+
+<view class="card">
+  
+  <navigator url="../gx/gx" open-type="navigate" class="uploader-text">
+    <image class="img"  src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gx/gx1.jpg"></image>
+    </navigator>
+    <text class="title_text">广西大学</text>
+    <view class="zan">
+      <image bindtap="gx_m" src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/praise.PNG' class="img_p"  ></image>
+    <view class="text_p">{{gx}}</view>
+    </view>
+</view>
+
+<view class="card">
+  <navigator url="../yk/yk" open-type="navigate" class="uploader-text">
+    <image class="img"  src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/yk/yk1.jpg"></image>
+    </navigator>
+    <text class="title_text">广西医科大学</text>
+    <view class="zan">
+      <image bindtap="yk_m" src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/praise.PNG' class="img_p" ></image>
+    <view class="text_p" >{{yk}}</view>
+    </view>
+</view>
+
+<view class="weui-footer">
+            <view class="weui-footer__text">顺序不代表排名，只为展示广西几所大学的环境</view>
+                 </view>
+
+
+
+

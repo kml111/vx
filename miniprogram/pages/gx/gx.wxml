@@ -1,0 +1,11 @@
+<!--miniprogram/pages/gx/gx.wxml-->
+<view class="title">
+  <text>广西大学</text>
+</view>
+<view class="card">
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gx/gx2.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gx/gx3.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gx/gx4.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gx/gx5.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/gx/gx6.jpg"></image>
+</view>

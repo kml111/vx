@@ -1,0 +1,17 @@
+.img{
+  width: 100%;
+  border-radius: 5rpx;
+  margin-bottom: 10rpx;
+  box-shadow: 2px 1px 1px #cccccc;
+  display: block;
+  
+}
+.card{
+  padding: 10rpx;
+  
+}
+.title{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}

@@ -1,0 +1,11 @@
+<!--miniprogram/pages/yk/yk.wxml-->
+<view class="title">
+  <text>广西医科大学</text>
+</view>
+<view class="card">
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/yk/yk2.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/yk/yk3.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/yk/yk4.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/yk/yk5.jpg"></image>
+  <image class="img" src="cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/yk/yk6.jpg"></image>
+</view>

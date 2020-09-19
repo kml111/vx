@@ -1,0 +1,8 @@
+<block wx:for='{{newsList}}' wx:key="index">
+  <view class='item-zan' bindtap='thumbsup' data-id='{{item._id}}'>
+    <image src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/guet.jpg' style="width:60rpx;height:60rpx" wx:if="{{!item.like}}"></image>
+    <image src='cloud://kml-bv98a.6b6d-kml-bv98a-1303159717/images/guet/guet.jpg' style="width:60rpx;height:60rpx" wx:else></image>
+    <view style="margin-left:20rpx">{{item.like_num}}</view>
+  </view>
+</block>
+
